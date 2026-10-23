@@ -3,6 +3,12 @@ Microsoft Fabric | PySpark | Lakehouse | Power BI | DAX | Data Modeling
 
 An end-to-end business project demonstrating how synthetic healthcare appointment data can be cleaned, modeled, validated, and visualized to support operational analysis.
 
+## Power BI Dashboard
+
+Interactive Healthcare Appointment and No-Show Analysis developed using Microsoft Fabric and Power BI.
+
+![Healthcare Appointment and No-Show Dashboard](DashboardFabric.png)
+  
 Business problem
 Healthcare operations teams need reliable visibility into appointment attendance, no-show patterns, facility performance, and differences across visit types. This project builds an interactive reporting solution to investigate those patterns and identify areas for further review.
 Solution architecture
